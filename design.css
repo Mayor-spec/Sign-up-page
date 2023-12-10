@@ -1,0 +1,83 @@
+body{
+    background: url("mayor.jpg"); background-size: cover; background-repeat: no-repeat;
+}
+.signupbox{
+    background: rgba(42, 62, 80, 0.7); padding: 40px;
+    width:250px;
+    margin-top: 90px;
+    margin-left: 180px;
+    margin: 0 auto;
+    
+    
+   
+}
+
+form{
+    width: 240px
+   ; text-align:center;
+  
+   
+       
+   }
+input{
+    background: transparent;
+    padding:10px;
+    font-size: 19px;
+    
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid white;
+    width: 230px;
+    color: white;
+    
+    
+}
+button{
+    font-size: 18px;
+    padding: 15px;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+    cursor: pointer; 
+  }
+button:hover{
+    background-color: green;
+}
+    nav {
+      background-color: transparent;
+      color: #fff;
+      text-align: center
+     ;
+     padding: 9px;
+     margin: 10px; margin-bottom: 10px;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #fff;
+      padding: 10px 20px;
+      ;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+      
+     
+    }
+
+    nav a:hover {
+      background-color: brown;
+    }
+    
+nav a {
+  text-decoration: none;
+  color: #fff;
+  border-radius: 5px;
+  background-color: transparent; /* Add this line */
+  transition: background-color 0.3s;
+}
+span{
+    color: brown;
+    margin-top: ;
+    p{
+        
+    }
+  
